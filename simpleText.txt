@@ -1,0 +1,2 @@
+# Simple text
+I am practicing how to create, edit and commit in git
