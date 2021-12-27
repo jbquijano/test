@@ -2,3 +2,5 @@
 I am practicing how to create, edit and commit in git
 
 Adding some more text so I can be better
+
+Adding last update, you doing good!
